@@ -1,0 +1,39 @@
+{
+  "name": "roboprojects",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@prisma/client": "^5.4.2",
+    "@types/bcryptjs": "^2.4.4",
+    "@types/cookie": "^0.5.2",
+    "@types/cookies": "^0.7.8",
+    "@types/jsonwebtoken": "^9.0.3",
+    "axios": "^1.5.1",
+    "bcrypt": "^5.1.1",
+    "bcryptjs": "^2.4.3",
+    "cookies": "^0.8.0",
+    "jsonwebtoken": "^9.0.2",
+    "next": "latest",
+    "next-auth": "^4.23.2",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "devDependencies": {
+    "@types/node": "latest",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "autoprefixer": "latest",
+    "eslint": "latest",
+    "eslint-config-next": "latest",
+    "postcss": "latest",
+    "prisma": "^5.4.2",
+    "tailwindcss": "latest",
+    "typescript": "latest"
+  }
+}
